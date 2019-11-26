@@ -1,0 +1,6 @@
+C:\Work\JMBGValidation\JMBGValidation\bin\Debug\JMBGValidation.exe.config
+C:\Work\JMBGValidation\JMBGValidation\bin\Debug\JMBGValidation.exe
+C:\Work\JMBGValidation\JMBGValidation\bin\Debug\JMBGValidation.pdb
+C:\Work\JMBGValidation\JMBGValidation\obj\Debug\JMBGValidation.csprojAssemblyReference.cache
+C:\Work\JMBGValidation\JMBGValidation\obj\Debug\JMBGValidation.exe
+C:\Work\JMBGValidation\JMBGValidation\obj\Debug\JMBGValidation.pdb
